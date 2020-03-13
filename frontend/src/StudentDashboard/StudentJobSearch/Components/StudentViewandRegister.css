@@ -1,0 +1,8 @@
+#disabled {
+  display: none;
+}
+
+#fullname {
+  float: right;
+  display: none;
+}

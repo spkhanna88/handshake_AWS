@@ -1,0 +1,36 @@
+.search-box {
+  box-shadow: 2px 2px 2px 2px rgb(108, 134, 146);
+  display: block;
+  margin: 24px auto;
+  height: 32px;
+  border-radius: 4px;
+  width: 60%;
+}
+
+.search-box:focus {
+  box-shadow: 2px 4px 2px 2px rgba(16, 3, 255, 0.308);
+}
+
+.collapse-able {
+  padding-top: 16px;
+  display: block;
+  margin: 0 auto;
+}
+
+.liclass {
+  background: rgb(200, 200, 255);
+  padding: 16px;
+  border: 2px solid #558;
+  border-radius: 8px;
+  box-shadow: 2px 2px 8px 2px rgb(138, 145, 148);
+  margin: 16px 20%;
+}
+
+.h22 {
+  column-span: all;
+  column-count: 3;
+  column-gap: 40px;
+  column-rule: 1px solid lightblue;
+  column-fill: auto;
+  height: 2000px;
+}
